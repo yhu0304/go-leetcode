@@ -1,7 +1,7 @@
 package merge_two_sorted_lists_21
 
 import (
-	s "github.com/austingebauer/go-leetcode/structures"
+	s "go-leetcode/structures"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

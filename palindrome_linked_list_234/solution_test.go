@@ -1,7 +1,7 @@
 package palindrome_linked_list_234
 
 import (
-	. "github.com/austingebauer/go-leetcode/structures"
+	. "go-leetcode/structures"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

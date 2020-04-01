@@ -1,6 +1,6 @@
 package reorder_list_143
 
-import . "github.com/austingebauer/go-leetcode/structures"
+import . "go-leetcode/structures"
 
 func reorderList(head *ListNode) {
 	if head == nil || head.Next == nil {

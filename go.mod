@@ -1,5 +1,5 @@
-module github.com/austingebauer/go-leetcode
+module go-leetcode
 
-go 1.14
+go 1.12
 
 require github.com/stretchr/testify v1.5.1

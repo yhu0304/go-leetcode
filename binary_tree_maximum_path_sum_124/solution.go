@@ -1,7 +1,7 @@
 package binary_tree_maximum_path_sum_124
 
 import (
-	. "github.com/austingebauer/go-leetcode/structures"
+	. "go-leetcode/structures"
 	"math"
 )
 

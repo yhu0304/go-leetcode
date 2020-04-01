@@ -1,7 +1,7 @@
 package reverse_linked_list_206
 
 import (
-	s "github.com/austingebauer/go-leetcode/structures"
+	s "go-leetcode/structures"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

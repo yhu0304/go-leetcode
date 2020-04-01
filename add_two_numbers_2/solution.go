@@ -1,7 +1,7 @@
 package add_two_numbers_2
 
 import (
-	"github.com/austingebauer/go-leetcode/structures"
+	"go-leetcode/structures"
 	"math/big"
 )
 

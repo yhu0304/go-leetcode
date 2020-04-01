@@ -1,6 +1,6 @@
 package construct_binary_tree_from_preorder_and_inorder_traversal_105
 
-import . "github.com/austingebauer/go-leetcode/structures"
+import . "go-leetcode/structures"
 
 func buildTree(preorder []int, inorder []int) *TreeNode {
 	if len(preorder) == 0 {

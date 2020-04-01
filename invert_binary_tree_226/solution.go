@@ -1,6 +1,6 @@
 package invert_binary_tree_226
 
-import . "github.com/austingebauer/go-leetcode/structures"
+import . "go-leetcode/structures"
 
 func invertTree(root *TreeNode) *TreeNode {
 	if root == nil {

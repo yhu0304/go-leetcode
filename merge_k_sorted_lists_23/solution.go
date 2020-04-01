@@ -1,6 +1,6 @@
 package merge_k_sorted_lists_23
 
-import . "github.com/austingebauer/go-leetcode/structures"
+import . "go-leetcode/structures"
 
 /**
  * Definition for singly-linked list.
